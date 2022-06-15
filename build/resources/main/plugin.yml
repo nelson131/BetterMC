@@ -1,0 +1,9 @@
+name: BetterMC
+main: com.nelson131.bettermc.BetterMC
+version: 1.0.0
+api-version: 1.19
+description: minecraft balance plugin
+author: nelson131
+commands:
+  ping:
+    description: get player ping
